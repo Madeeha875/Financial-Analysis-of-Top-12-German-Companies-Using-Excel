@@ -46,6 +46,9 @@ To further facilitate the analysis Efficiency column is created by using IF func
 Profit Margin represents profit as a percentage of revenue.  A higher percentage is desired. This ratio measure whether the company is capable enough to pay off its operating expenses from its revenue and generate a profit on top of it. Highest top 10 figures are highlighted as yellow in the Profit Margin column. The screenshot below shows that Volkswagen again, like ROA, has scored highest instances of high Profit Margin quarterly over the span of 8 years (2017 to 2024). 
 
 
+<img width="295" height="157" alt="image" src="https://github.com/user-attachments/assets/fa879ed0-b57d-4ca7-be1f-e0881bdd0af2" />
+
+
 
 
 
