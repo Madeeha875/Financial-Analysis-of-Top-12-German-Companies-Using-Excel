@@ -28,3 +28,30 @@ The ROA shows how much profit is generated over the assets. In simple terms it s
 
 
   <img width="275" height="157" alt="image" src="https://github.com/user-attachments/assets/c9c08cca-9cdb-4c8a-a456-4b019896fe36" />
+
+  |||2.	ROE (Return on Equity)
+ The Return on Equity (ROE) shows how much the profit is generated on the total equity of the company. This ratio is quite significant as it shows the return of investment to the owners/shareholders of the company. The higher this ratio is, the better it is as it signifies to the owners/shareholders that their investment is not going in a loss. In the column of ROE, top 10 figures of ROE are highlighted green. From the screenshot below it shows that Siemens AG, Allianz SE and Deutsche Bank AG have the greatest number of highest ROE figures as shown in the next image:
+
+ <img width="275" height="141" alt="image" src="https://github.com/user-attachments/assets/cbccc6e5-f664-403a-9dc8-19fd88819451" />
+
+ |||3.	Debt to Equity and Leverage
+ Leverage as calculated by Debt-to-Equity ratio depicts the composition of assets and liabilities of a company. There must be a fine balance between equity and debt of a company. Large companies usually have higher proportion of debt as compared to equity in their source of funding. It not only amplifies return on equity but also provides with ample source of funding as compared to equity market. How much leverage is ideal? Well, the answer varies from company to company. I have made a Leverage Column by applying IF function on Debt-to-Equity Column. All values in Debt to Equity greater than or equal to one are highlighted as Yellow and labelled as “High”, while all values less than one are highlighted as Green and labelled “Low”.  The leverage column shows that there is a good mix of high and low leverage companies. 
+
+ |||4.	Asset Turnover/Efficiency
+ Asset Turnover represents how quickly assets were turned over/refreshed to generate revenue.  It shows how much sales are generated for each dollar of assets. The higher the ratio is, the better it is. Theoretically, a ratio above 1 is ideal but not mandatory. The Asset Turnover Column in the Cleaned Data Sheet has red arrow showing all the figures less than 1. 
+
+To further facilitate the analysis Efficiency column is created by using IF function on the Asset Turnover Column. Cells in Efficiency column are highlighted as red and labelled as “Low” if Asset Turnover value is equal or less than 1. Otherwise, the values greater than 1 will be labelled as “High” with yellow highlight. All the cells in the Efficiency Column turned out to be red signifying that all the companies have low level of efficiency. Due to limitations of data, further analysis cannot be done to verify it. 
+
+|||5.	Profit Margin
+Profit Margin represents profit as a percentage of revenue.  A higher percentage is desired. This ratio measure whether the company is capable enough to pay off its operating expenses from its revenue and generate a profit on top of it. Highest top 10 figures are highlighted as yellow in the Profit Margin column. The screenshot below shows that Volkswagen again, like ROA, has scored highest instances of high Profit Margin quarterly over the span of 8 years (2017 to 2024). 
+
+
+
+
+
+
+
+
+
+
+
