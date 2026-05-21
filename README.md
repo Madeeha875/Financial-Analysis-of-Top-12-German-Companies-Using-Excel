@@ -25,4 +25,6 @@ Data analysis is done in three dimensions. The first one is a Ratios analysis of
 ||Ratio Analysis
 |||1.	ROA (Return on Assets)
 The ROA shows how much profit is generated over the assets. In simple terms it shows how much profit is earned over $100 of assets (since it is a percentage therefore $100 is assumed as a           denomination). The higher this ratio is, the better it is. As it signifies that assets are operating efficiently to generate profit on them and their costs are covered. Top 10 highest values in the column of the ROA are highlighted as red. Apparently Volkswagen AG has the greatest number of highest ROA as compared to the rest of the German companies as concluded from the screenshot below: 
+
+
   <img width="275" height="157" alt="image" src="https://github.com/user-attachments/assets/c9c08cca-9cdb-4c8a-a456-4b019896fe36" />
